@@ -1,0 +1,1 @@
+Тесты расположенны в директории *\addressbook-web-tests\src\test\java
